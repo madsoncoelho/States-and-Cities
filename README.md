@@ -9,5 +9,5 @@ Dentro do diretório da aplicação, digite o seguinte comando em uma linha de c
 node index.js
 ```
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - Javascript
